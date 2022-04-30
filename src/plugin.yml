@@ -1,0 +1,5 @@
+name: Anti-Feur
+author: Vepex
+version: 1.0.0
+main: fr.vepex.monplugin.MonPlugin
+api-version: 1.17
